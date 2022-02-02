@@ -1,0 +1,25 @@
+{
+  "id": "d540ff17-0d48-4f4c-b917-7d558bff3844",
+  "name": "trijayasteel",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 50000,
+      "to": 59999
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "8.0"
+}
