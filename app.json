@@ -20,6 +20,10 @@
       "to": 59999
     }
   ],
-  "showMyCode": true,
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": true
+  },
   "runtime": "8.0"
 }
